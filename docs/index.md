@@ -4,6 +4,14 @@ For seed projects visit [Warestack@GitHub](https://github.com/warestack).
 
 ## Example of a simple Flask documentation page
 
+<!-- termynal -->
+
+```
+$ warestack init
+---> 100%
+Warestack is cool!
+```
+
 ### Codeblocks
 
 Here is a simple `Flask` test docs.

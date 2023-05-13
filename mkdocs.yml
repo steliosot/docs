@@ -39,6 +39,11 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://github.com/warestack
 
+plugins:
+  - termynal
+  - search:
+      lang: en
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
