@@ -55,4 +55,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
 copyright: |
-  &copy; 2023 <a href="https://github.com/warestack"  target="_blank" rel="noopener">Warestack</a>
+  &copy; 2023 <a href="https://github.com/warestack"  target="_blank" rel="noopener">Warestack </a>
+
+
+extra:
+  generator: false

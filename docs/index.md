@@ -1,68 +1,72 @@
-# Welcome to Warestack
+# Welcome to Warestack Test documentation
 
-For full documentation visit [mkdocs.org](https://github.com/warestack).
+For seed projects visit [Warestack@GitHub](https://github.com/warestack).
 
-## Code Annotation Sample
+## Example of a simple Flask documentation page
 
 ### Codeblocks
 
-Some `code` goes here.
-
-### Plain codeblock
-
-A plain codeblock:
-
-```
-Some code here
-def myfunction()
-// some comment
-```
+Here is a simple `Flask` test docs.
 
 #### Code for a specific language
 
-Some more code with the `py` at the start:
+Let's see how to import `Flask` in your script:
 
 ``` py
-import tensorflow as tf
-def whatever()
+from flask import Flask
 ```
 
-#### With a title
+#### Hello World Flask!
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
+``` py title="app.py"
+from flask import Flask
+app = Flask(__name__)
+@app.route('/')
+def index():
+    return 'Hello, this is the version `1.0.0` of your flask app'
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
+
 ```
 
-#### With line numbers
+#### Flask app with line numbers
 
 ``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
+from flask import Flask
+app = Flask(__name__)
+@app.route('/')
+def index():
+    return 'Hello, this is the version `1.0.0` of your flask app'
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
+
 ```
 
-#### Highlighting lines
+#### Dockerfile Flask (Highlighting lines 1, 15 and 17)
 
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
+``` py hl_lines="1 15 17"
+FROM ubuntu
+
+# Create app directory
+WORKDIR /app
+
+# Install app dependencies
+RUN apt update
+RUN apt install python3-pip -y
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+# OPTIONAL as the `-p` flag is used while running the container
+EXPOSE 8000
+
+CMD ["python3", "-m", "flask", "run", "--host=0.0.0.0"]
+
 ```
+> To run use the following command:
+> `python app.py`
 
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
+## Warestack on Social media
 
 :fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }

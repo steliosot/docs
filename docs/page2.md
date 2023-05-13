@@ -130,4 +130,6 @@ $ docker run -d -p 5000:5000 flask
 
 > `-d` run process in the background. 
 
-14. Try to access your service in the browser; you just created your first containerised app!:checkered_flag: Well done! 
+14. Try to access your service in the browser; you just created your first containerised app!
+
+:checkered_flag: Well done! 
