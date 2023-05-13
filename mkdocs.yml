@@ -2,6 +2,8 @@ site_name: Warestack Docs
 theme: 
   name: material
 theme:
+
+
   name: material
   features:
     - navigation.tabs
@@ -19,13 +21,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: black
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: black
       accent: lime
 
 extra:
