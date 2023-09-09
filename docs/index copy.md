@@ -1,4 +1,4 @@
-# Welcome to Warestack Test documentation (new)
+# Welcome to Warestack Test documentation
 
 For seed projects visit [Warestack@GitHub](https://github.com/warestack).
 
