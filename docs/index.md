@@ -1,6 +1,6 @@
-# Welcome to Warestack Test documentation (new)
+# Welcome to Cloud Computing module
 
-For seed projects visit [Warestack@GitHub](https://github.com/warestack).
+CC repository can be found here [CC@GitHub](https://github.com/warestack/cc).
 
 ## Example of a simple Flask documentation page
 
