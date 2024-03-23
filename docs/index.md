@@ -1,80 +1,33 @@
-# Welcome to Cloud Computing module
+# Welcome to Warestack
 
-CC repository can be found here [CC@GitHub](https://github.com/warestack/cc).
+<a href="https://www.warestack.com" target="_blank">
+<img src="/assets/images/logo.svg" alt="Stelios" width="400"/></a>
 
-## Example of a simple Flask documentation page
+**Welcome to the Warestack data room. In this space you can find useful information about our team and product.**
 
-<!-- termynal -->
+## What is a Warestack workflow?
 
-```
-$ warestack init
----> 100%
-Warestack is cool!
-```
+A workflow in Warestack’s context is an automated process that simplifies tasks in cloud computing and software development. It handles the orchestration of cloud resources, integration with providers (like Amazon Web Services) by utilizing code and repositories with actions (like GitHub), deploying and configuring systems (like databases), and setting up their dependencies.
 
-### Codeblocks
+:bulb: Workflows are defined in YAML files and triggered by events such as push, pull requests, or issue creation, or they can be scheduled to run at specific times.
 
-Here is a simple `Flask` test docs.
+### :red_circle: What are the problems?
 
-#### Code for a specific language
+We solve the workflow operation puzzle! Setting up workflows is complex and costly. We simplify and reduce costs by providing workflow compositions and self-hosted solutions with observability.
 
-Let's see how to import `Flask` in your script:
+1. High complexity: A ton of integrations with manual hardcoded configurations.
+2. Indefficient operations: Error resolution requires billable time, plus high tech expertise is needed to setup.
+3. Hard to observe and fix: Jumping from site to site to debug, go to Google or Stack Overflow to ask for help.
 
-``` py
-from flask import Flask
-```
+### :blue_circle:  What is our solution?
 
-#### Hello World Flask!
+1. Low-code copilot: We provide a custom LLM to help you compose and optimize workflows in minutes.
+2. Self-managed runners: Self and cloud hosted workfklow runners to control cost, performance and compliance.
+3. Holistic observability: A unique dashboard to manage, fix and operate multi-cloud wofklows.
 
-``` py title="app.py"
-from flask import Flask
-app = Flask(__name__)
-@app.route('/')
-def index():
-    return 'Hello, this is the version `1.0.0` of your flask app'
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+**Please explore our :paperclip: [pitch](1_pitch.md) for more information.**
 
-```
+> Members of startup programs that offer technical support, guidance, and access to credits for resources worth up to $200,000.
 
-#### Flask app with line numbers
+<img src="/assets/images/group.svg" alt="Stelios" width="1000"/>
 
-``` py linenums="1"
-from flask import Flask
-app = Flask(__name__)
-@app.route('/')
-def index():
-    return 'Hello, this is the version `1.0.0` of your flask app'
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
-
-```
-
-#### Dockerfile Flask (Highlighting lines 1, 15 and 17)
-
-``` py hl_lines="1 15 17"
-FROM ubuntu
-
-# Create app directory
-WORKDIR /app
-
-# Install app dependencies
-RUN apt update
-RUN apt install python3-pip -y
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-
-COPY . .
-
-# OPTIONAL as the `-p` flag is used while running the container
-EXPOSE 8000
-
-CMD ["python3", "-m", "flask", "run", "--host=0.0.0.0"]
-
-```
-> To run use the following command:
-> `python app.py`
-
-## Warestack on Social media
-
-:fontawesome-brands-twitter:{ .twitter }

@@ -1,8 +1,7 @@
-site_name: Warestack Docs
+site_name: Warestack Dataroom
 theme: 
   name: material
-theme:
-
+  logo: assets/images/stack.svg
 
   name: material
   features:
@@ -62,8 +61,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
 copyright: |
-  &copy; 2023 <a href="https://github.com/warestack"  target="_blank" rel="noopener">Warestack </a>
-
+  &copy; 2023 <a href="https://www.warestack.com"  target="_blank" rel="noopener">Warestack </a>
+  
 
 extra:
-  generator: false
+  generator: true
