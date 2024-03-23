@@ -5,7 +5,7 @@
 > <a href="https://excalidraw.com/#room=cbe9ad7e3782f2d4aadf,9BBCJcrK9sjLaqtQNm_Cdw
 " target="_blank"> Link to a technical view of our product (excalidraw). </a>
 
-<img src="/assets/images/arch.svg" alt="Architecture" width="1250"/>
+<img src="assets/images/arch.svg" alt="Architecture" width="1250"/>
 
 ## What does the community say?
 

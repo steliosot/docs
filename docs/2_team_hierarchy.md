@@ -3,7 +3,7 @@
 A team with a strong technological and operational background.
 
 ## Team hierarchy
-<img src="/assets/images/team.png" alt="Stelios" width=1000"/>
+<img src="assets/images/team.png" alt="Stelios" width=1000"/>
 
 ## Core team members
 

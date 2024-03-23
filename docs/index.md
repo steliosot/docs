@@ -1,7 +1,7 @@
 # Welcome to Warestack
 
 <a href="https://www.warestack.com" target="_blank">
-<img src="/assets/images/logo.svg" alt="Stelios" width="400"/></a>
+<img src="assets/images/logo.svg" alt="Stelios" width="400"/></a>
 
 **Welcome to the Warestack data room. In this space you can find useful information about our team and product.**
 
