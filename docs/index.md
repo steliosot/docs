@@ -1,4 +1,4 @@
-# Welcome to Warestack
+# Welcome
 
 Welcome to <a href="https://www.warestack.com" target="_blank">Warestack</a>'s data room. In this space you can find useful information about our product, team, and financial plan.
 

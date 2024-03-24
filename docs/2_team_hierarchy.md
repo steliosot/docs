@@ -22,15 +22,14 @@ A team with a strong technological and operational background.
 
 > Ilker presently serves as the Global Head of Data Science and Engineering at TS Imagine. He holds a Bachelor of Arts from Galatasaray University and a Master of Science in Data Science from Birkbeck, University of London.
 
-###  <a href="https://www.turing.ac.uk/people/former-doctoral-students/andreas-grammenos" target="_blank"> Andreas Grammenos</a>
-`Technical Advisor`: Andreas completed his PhD from Cambridge University and he has over 1K citations. He is currently CTO @ Quine and worked with the Alan Turing institute. He already raised $5.5M in his previous projects.
-
-> Andreas was born in Athens, the capital of beautiful Greece in the late 80’s and formally obtained his Degree in Electronic & Computer Engineering from Technical University of Crete in 2015. He joined University of Cambridge as a first year PhD student in October 2016.
-
 ###  <a href="https://www.linkedin.com/in/tomups" target="_blank"> Tomas Arribas</a>
 `Technical Lead`: Tomas is a tech expert with a deep understanding of software development across the whole stack, cloud technologies, DevOps practices and AI. He currently leads the tech team at Chimnie, setting our technical direction and supporting our teams in data, development, and operations to work as one. But I still enjoy getting my hands dirty with coding and problem-solving. 
 
 > Tomas has solid history of crafting software and systems, being part of a digital agency for more than 12 years, where he worked on projects for big names like Google, Toyota, YouTube, Sony or Armani, meeting the needs of large clients and pushing the envelope in tech under the spotlight of global giants. He have also founded two startups, learning firsthand what it takes to turn an idea into a product that people use and love (and how hard it really is!).
 
+###  <a href="https://www.turing.ac.uk/people/former-doctoral-students/andreas-grammenos" target="_blank"> Andreas Grammenos</a>
+`Technical Advisor`: Andreas completed his PhD from Cambridge University and he has over 1K citations. He is currently CTO @ Quine and worked with the Alan Turing institute. He already raised $5.5M in his previous projects.
+
+> Andreas was born in Athens, the capital of beautiful Greece in the late 80’s and formally obtained his Degree in Electronic & Computer Engineering from Technical University of Crete in 2015. He joined University of Cambridge as a first year PhD student in October 2016.
 
 
