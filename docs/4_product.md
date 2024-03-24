@@ -3,8 +3,7 @@
 ## Product roadmap
 
 The product roadmap showcases our journey of development starting from the inception of Warestack.
-
-<img src="assets/images/timeline.png" alt="Timeline" width="1000"/>
+<img src="../assets/images/timeline.png" alt="Timeline" width="1000"/>
 
 ## Product screens in Figma
 
@@ -12,7 +11,7 @@ The product roadmap showcases our journey of development starting from the incep
 >
 > * <a href="https://www.figma.com/file/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?type=design&node-id=53-2634&mode=design" target="_blank"> Figma designs `web-app_v3/console_share`
 
-> <img src="assets/images/console.png" alt="Architecture" width="750"/></a>
+> <img src="../assets/images/console.png" alt="Architecture" width="750"/></a>
 
 
 ## Warestack <a href="https://dev.warestack.com" target="_blank">development environment</a>
@@ -23,7 +22,7 @@ The product roadmap showcases our journey of development starting from the incep
 >
 > * <a href="https://dev.warestack.com" target="_blank">https://dev.warestack.com
 >
-> <img src="assets/images/enter-console.png" alt="Architecture" width="750"/></a>
+> <img src="../assets/images/enter-console.png" alt="Architecture" width="750"/></a>
 
 
 
@@ -33,7 +32,7 @@ The product roadmap showcases our journey of development starting from the incep
 >
 > * <a href="https://api.warestack.com/v1/docs/index.html" target="_blank">Warestack REST API
 >
-> <img src="assets/images/swagger.png" alt="Architecture" width="750"/></a>
+> <img src="../assets/images/swagger.png" alt="Architecture" width="750"/></a>
 
 
 ## Warestack GitHub presense

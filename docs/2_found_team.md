@@ -2,7 +2,7 @@
 
 ## How did we meet?
 
-<img src="assets/images/founders.png" width=500>
+<img src="../assets/images/founders.png" width=500>
 
 Stelios and Dimitris have been collaborating since 2014 and they are good friends. Stelios was Dimitris' undergraduate thesis supervisor at the Technical University of Crete in Greece. Then, Dimitris was introduced to the area of distributed systems, while Stelios was a postdoctoral researcher. After completing his studies, Dimitris moved to London to study a PhD under Stelios' mentorship. It was during his doctoral research that the Warestack idea was born.
 
@@ -20,7 +20,7 @@ Stelios and Dimitris have been collaborating since 2014 and they are good friend
 
 ## Stelios Sotiriadis `CEO`
 
-<img align="left" width="150" src="assets/images/stelios.png">
+<img align="left" width="150" src="../assets/images/stelios.png">
 
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png)
 <a href="https://www.linkedin.com/in/stelios-sotiriadis-b9a1a571/" target="_blank">LinkedIn</a>
@@ -33,12 +33,10 @@ He holds a BSc, MSc, and Ph.D. in computer science. Since 2018, he has been an a
 
 ## Dimitris Kargatzis `CTO`
 
-<img align="left" width="150" src="assets/images/dimitris.png">
+<img align="left" width="150" src="../assets/images/dimitris.png">
 
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png)
 <a href="https://www.linkedin.com/in/dimitris-kargatzis/" target="_blank">LinkedIn</a>
-
-
 
 Dimitris is a co-founder, director and CTO of Warestack. He is also a visiting lecturer on computer science at Birkbeck, University of London. 
 

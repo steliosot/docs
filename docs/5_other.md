@@ -1,11 +1,15 @@
-# Tech and Community
+# Technology and Community
+
+## Warestack community
+
+<a href="https://discord.com/invite/pqg5sxhx6Y" target="_blank"> :link: Warestack's Discord server. </a>
+
+<a href="https://www.linkedin.com/company/36080416" target="_blank"> :link: Warsestack's LinkedIn page. </a>
 
 ## Architecture
 
 > <a href="https://excalidraw.com/#room=cbe9ad7e3782f2d4aadf,9BBCJcrK9sjLaqtQNm_Cdw
-" target="_blank"> Link to a technical view of our product (excalidraw). </a>
-
-<img src="assets/images/arch.svg" alt="Architecture" width="1250"/>
+" target="_blank"> :file_folder: Link to a technical view of our product (excalidraw). </a>
 
 ## What does the community say?
 
