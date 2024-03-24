@@ -21,7 +21,7 @@ A workflow in Warestack’s context is an automated process that simplifies task
 2. Indefficient operations: Error resolution requires billable time, plus high tech expertise is needed to setup.
 3. Hard to observe and fix: Jumping from site to site to debug, go to Google or Stack Overflow to ask for help.
 
-### :blue_circle:  What is our solution?
+### :green_circle:  What is our solution?
 
 We solve the workflow operation puzzle! Setting up workflows is complex and costly. We simplify and reduce costs by providing workflow compositions and self-hosted solutions with observability. Our solution includes:
 
