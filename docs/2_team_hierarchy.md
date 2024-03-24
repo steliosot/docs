@@ -31,5 +31,3 @@ A team with a strong technological and operational background.
 `Technical Advisor`: Andreas completed his PhD from Cambridge University and he has over 1K citations. He is currently CTO @ Quine and worked with the Alan Turing institute. He already raised $5.5M in his previous projects.
 
 > Andreas was born in Athens, the capital of beautiful Greece in the late 80’s and formally obtained his Degree in Electronic & Computer Engineering from Technical University of Crete in 2015. He joined University of Cambridge as a first year PhD student in October 2016.
-
-
