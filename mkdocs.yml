@@ -2,7 +2,7 @@ site_name: Warestack Dataroom
 theme: 
   name: material
   logo: assets/images/stack.svg
-  favicon: assets/images/stack.png
+  favicon: assets/images/favicon.ico
 
 
   name: material
