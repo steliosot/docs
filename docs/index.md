@@ -33,6 +33,6 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
 
 > We are members of startup programs that offer technical support, guidance, and access to credits for resources worth up to $200,000.
 
-<img src="../assets/images/group.svg" alt="Stelios" width="1250"/>
+<img src="assets/images/group.svg" alt="Stelios" width="1250"/>
 
  
