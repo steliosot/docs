@@ -13,7 +13,7 @@ A workflow in Warestack’s context is an automated process that simplifies task
 
 > It handles the orchestration of cloud resources and integration with providers (like `Amazon Web Services` or the `Google Cloud Platform`) by utilizing code and repositories with actions (like `GitHub Action`), deploying and configuring systems (like `databases`), and setting up their dependencies.
 
-:bulb: Workflows are defined in YAML files and triggered by events such as push, pull requests, or issue creation, or manually or they can be scheduled to run at specific times.
+:bulb: Workflows are specified in YAML files and can be triggered by events like push actions, pull requests, issue creations, or manually. They can also be scheduled to run at specific times.
 
 ### :red_circle: What are the problems?
 
