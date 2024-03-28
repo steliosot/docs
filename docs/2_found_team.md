@@ -4,19 +4,24 @@
 
 <img src="../assets/images/founders.png" width=500>
 
-Stelios and Dimitris have been collaborating since 2014 and they are good friends. Stelios was Dimitris' undergraduate thesis supervisor at the Technical University of Crete in Greece. Then, Dimitris was introduced to the area of distributed systems, while Stelios was a postdoctoral researcher. After completing his studies, Dimitris moved to London to study a PhD under Stelios' mentorship. It was during his doctoral research that the Warestack idea was born.
+:fontawesome-solid-arrow-right: Stelios and Dimitris have been collaborating since 2014 and they are good friends. Stelios was Dimitris' undergraduate thesis supervisor at the Technical University of Crete in Greece. Then, Dimitris was introduced to the area of distributed systems, while Stelios was a postdoctoral researcher. After completing his studies, Dimitris moved to London to study a PhD under Stelios' mentorship. It was during his doctoral research that the Warestack idea was born.
 
-> We are passionate about solving technological problerms of workflow operations, especially in multi-cloud environments.
+
+!!! quote
+
+    We are passionate about solving technological problerms of workflow operations (creation, execution and monitoring), especially in multi-cloud environments.
 
 
 ## Why us?
 
-1. **We have a solid long relationship**: Working together for 10+ years - constructive conflict.
-2. **Academic and tech proficiency**: Ph.Ds. in CS & deep tech domain knowledge.
-3. **Research impact**: Stelios 100+ publications / 2K+ <a href="https://scholar.google.com/citations?user=hLqLr1IAAAAJ&hl=en" target="_blank">citations</a>
- / led >$1M R&D projects.
-4. **Industrial experience in the area**: Dimitris is DevOps/Workflow expert - Both on B2B since 2019
-5. **Startup leading experience**: Stelios served as the CTO at Chimnie and led a dev team (5 members) in complex R&D projects, including Huawei, Autodesk, IBM, and others. Dimitris demonstrated leadership in development at Chimnie, alongside expertise in infrastructure at Quine. 
+| Skill      | Description                          |
+| ----------- | ------------------------------------ |
+| We have a solid long relationship       | Working together for 10+ years - constructive conflict. |
+| Academic and tech proficiency       | Ph.Ds. in CS & deep tech domain knowledge. |
+| Research impact    | Stelios 100+ publications / 2K+ <a href="https://scholar.google.com/citations?user=hLqLr1IAAAAJ&hl=en" target="_blank">citations</a> / led >$1M R&D projects. |
+| Industrial experience in the area   | Both worked on DevOps/Workflow in B2B since 2019. |
+| Startup leading experience (Stelios) | Stelios served as the CTO at Chimnie and other projects, including Huawei, Autodesk, IBM, and others.  |
+| Startup leading experience (Dimitris) | Dimitris demonstrated leadership in development at Chimnie, alongside expertise in infrastructure at Quine.  |
 
 ## Stelios Sotiriadis `CEO`
 

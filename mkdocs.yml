@@ -3,8 +3,6 @@ theme:
   name: material
   logo: assets/images/stack.svg
   favicon: assets/images/favicon.ico
-
-
   name: material
   features:
     - navigation.tabs
@@ -16,6 +14,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.footnote.tooltips
+
   language: en
   palette:
     - scheme: default
@@ -46,6 +46,7 @@ plugins:
       lang: en
 
 markdown_extensions:
+  - footnotes
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -58,13 +59,25 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-      
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences 
 copyright: |
   &copy; 2023 <a href="https://www.warestack.com"  target="_blank" rel="noopener">Warestack </a>
   
 
 extra:
   generator: true
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/orgs/warestack
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/36080416
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/pqg5sxhx6Y
+    
