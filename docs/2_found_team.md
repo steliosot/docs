@@ -34,7 +34,8 @@ Stelios is a co-founder, director and CEO of Warestack. He is also an assistant 
 
 He holds a BSc, MSc, and Ph.D. in computer science. Since 2018, he has been an assistant Professor at Birkbeck, University of London. In the past, he worked as a postdoctoral fellow at the University of Toronto, where he collaborated with companies such as IBM, Autodesk, Huawei, and Toronto-based startups.
 
-> Stelios is an active researcher (H-index 26) in performance modelling and scaling of cloud-native applications. He enjoys driving his classic Mini Cooper and watching football.
+???+ Info
+    Stelios is an active researcher (H-index 26) in performance modelling and scaling of cloud-native applications. He enjoys driving his classic Mini Cooper and watching football.
 
 ## Dimitris Kargatzis `CTO`
 
@@ -47,4 +48,5 @@ Dimitris is a co-founder, director and CTO of Warestack. He is also a visiting l
 
 With a strong background in software engineering, Dimitris is a seasoned software and systems engineer who specializes in DevOps and infrastructure design. He holds a BSc in Electrical & Computer Engineering from the Technical University of Crete and is actively engaged in PhD research at Birkbeck University of London. 
 
-> Dimitris currently leads the creation and maintenance of cloud infrastructure on AWS and GCP, employing Infrastructure as Code (IaC) tools like Terraform. He also excels in implementing CI/CD workflows, ensuring seamless deployments on EKS and GKE platforms. Passionate about knowledge-sharing, Dimitris is committed to fostering collaboration within the tech community.
+???+ Info
+    Dimitris currently leads the creation and maintenance of cloud infrastructure on AWS and GCP, employing Infrastructure as Code (IaC) tools like Terraform. He also excels in implementing CI/CD workflows, ensuring seamless deployments on EKS and GKE platforms. Passionate about knowledge-sharing, Dimitris is committed to fostering collaboration within the tech community.

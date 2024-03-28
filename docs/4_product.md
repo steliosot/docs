@@ -3,7 +3,8 @@
 ## Product roadmap
 
 The product roadmap showcases our journey of development starting from the inception of Warestack.
-<img src="../assets/images/timeline.png" alt="Timeline" width="1000"/>
+???+ Info
+    <img src="../assets/images/timeline.png" alt="Timeline" width="1000"/>
 
 ## Product screens in Figma
 
