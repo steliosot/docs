@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to <a href="https://www.warestack.com" target="_blank">Warestack</a>'s data room. In this space you can find useful information about our product, team, and financial plan.
+Welcome to [Warestack](https://www.warestack.com "Visit console page") data room. In this space you can find useful information about our product, team, and financial plan.
 
 :fontawesome-solid-envelope: Feel free to get in touch for more information.
 ```
@@ -33,9 +33,13 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
 
     Please explore our :paperclip: [pitch](1_pitch.md) for more information.
 
-### :fontawesome-solid-cloud: Memberships (1) { .annotate }
+### :fontawesome-solid-cloud: Memberships
 
-1.  :man_raising_hand: We are members of startup programs that offer technical support, guidance, and access to credits for resources worth up to $200,000.
+
+We are members of startup programs. (1)
+{ .annotate }
+
+1.  :man_raising_hand: They offer technical support, guidance, and access to credits for resources worth up to $200,000.
 
 <img src="assets/images/group.svg" alt="Stelios" width="1250"/>
 

@@ -4,7 +4,7 @@
 
 <img src="../assets/images/founders.png" width=500>
 
-:fontawesome-solid-arrow-right: Stelios and Dimitris have been collaborating since 2014 and they are good friends. Stelios was Dimitris' undergraduate thesis supervisor at the Technical University of Crete in Greece. Then, Dimitris was introduced to the area of distributed systems, while Stelios was a postdoctoral researcher. After completing his studies, Dimitris moved to London to study a PhD under Stelios' mentorship. It was during his doctoral research that the Warestack idea was born.
+:fontawesome-solid-arrow-right: Stelios and Dimitris have been working together since 2014 and they are good friends. Stelios was Dimitris' undergraduate thesis supervisor at the Technical University of Crete in Greece. Then, Dimitris was introduced to the area of distributed systems, while Stelios was a postdoctoral researcher. After completing his studies, Dimitris moved to London to study a PhD under Stelios' mentorship. It was during his doctoral research that the Warestack idea was born. Since January 2024 we are working towards the `One-click workflows for any codebase` solution!
 
 
 !!! quote
