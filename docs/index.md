@@ -52,7 +52,7 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
 
 ### :fontawesome-solid-thumbs-up: How is the market?
 
-<img src="assets/images/market.png" width=1000>
+<img src="assets/images/market.svg" width=1000>
 
 ???+ Quote end "Looking for more?"
 

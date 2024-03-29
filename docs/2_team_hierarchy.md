@@ -5,7 +5,7 @@ A team with a strong technological and operational background.
 ## Team hierarchy
 
 ???+ Tip end "Core team members hierarchy"
-    <img src="../assets/images/core-team.png" alt="Stelios" width=1000"/>
+    <img src="../assets/images/hierarchy.png" alt="Stelios"/>
 
 ## :fontawesome-solid-people-group: Core team members
 
