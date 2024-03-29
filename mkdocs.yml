@@ -74,7 +74,9 @@ markdown_extensions:
   - md_in_html
   - abbr
   - pymdownx.snippets
-  
+  - pymdownx.tabbed:
+      alternate_style: true
+      
 copyright: |
   &copy; 2023 <a href="https://www.warestack.com"  target="_blank" rel="noopener">Warestack </a>
   

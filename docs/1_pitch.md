@@ -18,4 +18,3 @@
 > <a href="https://www.figma.com/file/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?type=design&node-id=0-1&mode=design" target="_blank">**:file_folder: Link to pitch screens in Figma**</a>
 
 :fontawesome-solid-comments: Explore both the elevator and extended pitch in Figma, where you can make comments and requests for further discussion.
-

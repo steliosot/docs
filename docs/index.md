@@ -17,24 +17,48 @@ A workflow in Warestack’s context is an automated process that simplifies task
 
 ### :fontawesome-solid-square-xmark: What are the problems?
 
-1. High complexity: A ton of integrations with manual hardcoded configurations.
-2. Indefficient operations: Error resolution requires billable time, plus high tech expertise is needed to setup.
-3. Hard to observe and fix: Jumping from site to site to debug, go to Google or Stack Overflow to ask for help.
+1. High complexity: Worfklow creation and management requires a ton of integrations with manual hardcoded configurations. (1) 
+    { .annotate }
+    
+    1. It's like learning a new language in every step of the workflow.
+    
+2. Indefficient operations: Error resolution requires billable time, plus high tech expertise is needed to setup. (1) 
+    { .annotate }
+    
+    1. It's like taking a cab without knowing the fare.
+
+3. Hard to observe and fix: Jumping from workflow to workflow to debug, then go to Google or Stack Overflow to ask for help. (1) 
+    { .annotate }
+    
+    1. It's like looking for a needle in a big haystack.
 
 ### :fontawesome-solid-square-check:  What is our solution?
 
 We solve the workflow operation puzzle! Setting up workflows is complex and costly. We simplify and reduce costs by providing workflow compositions and self-hosted solutions with observability. Our solution includes:
 
-1. Low-code copilot: We provide a custom LLM to help you compose and optimize workflows in minutes.
-2. Self-managed runners: Self and cloud hosted workfklow runners to control cost, performance and compliance.
-3. Holistic observability: A unique dashboard to manage, fix and operate multi-cloud wofklows.
+1. Low-code copilot: We provide a custom LLM to help you compose and optimize workflows in minutes. (1)
+ { .annotate }
+    
+    1. Like using ChatGPT but to describe needs and build workflows.
 
-!!! Info
+2. Self-managed runners: Self and cloud hosted workfklow runners to control cost, performance and compliance. (1)
+ { .annotate }
+    
+    1. Like taking an Uber instead of the bus.
+    
+3. Holistic observability: A unique dashboard to manage, fix and operate multi-cloud wofklows.(1)
+ { .annotate }
+    1. Like taking an Uber instead of the bus.
 
-    Please explore our :paperclip: [pitch](1_pitch.md) for more information.
+### :fontawesome-solid-thumbs-up: Is there a market?
+
+<img src="../assets/images/market.png" width=1000>
+
+???+ Quote end "Looking for more?"
+
+    Explore our :paperclip: [elevator or extended pitches](1_pitch.md) for more information.
 
 ### :fontawesome-solid-cloud: Memberships
-
 
 We are members of startup programs. (1)
 { .annotate }
@@ -43,4 +67,3 @@ We are members of startup programs. (1)
 
 <img src="assets/images/group.svg" alt="Stelios" width="1250"/>
 
- 
