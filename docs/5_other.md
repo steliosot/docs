@@ -19,10 +19,12 @@
 
 ## Warestack Pilots
 
-We have letter of intents from GoCharlie and Renovai to use our product.
+We already have letter of intents from GoCharlie and Renovai to join us as pilots and use our prodcuct.
 
 <div class="grid">
-  <a href="https://gocharlie.ai/" class="card" style="color:black;"> GoCharlie </a>
-  <a href="https://www.renovai.com/" class="card" style="color:black;"> Renovai </a>
+  <a href="https://gocharlie.ai/" class="card" > <img title="a title" alt="Alt text" width=80 src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/axudveulhl8vqfvglhl8">  <p>GoCharlie is a leading Generative AI company specializing in developing cognitive agents and models optimized for businesses.</p></a>
+
+  <a href="https://gocharlie.ai/" class="card" > <img title="a title" alt="Alt text" width=50 src="https://www.renovai.com/wp-content/uploads/2021/06/logo-e1625733831590.png"> <p> Renovai is spearheading Visual AI Design be providing multiple commerce solutions, including the first ever AI powered Stylist, visual.</p></a>
+
 </div>
 
