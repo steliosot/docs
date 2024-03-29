@@ -2,7 +2,7 @@
 
 ## Elevator pitch
 
-> <a href="hhttps://www.figma.com/proto/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?page-id=561%3A801&type=design&node-id=632-68&viewport=1270%2C279%2C0.14&t=JWfDJcGj1QdEO3nS-1&scaling=min-zoom&starting-point-node-id=632%3A68&show-proto-sidebar=1&mode=design" target="_blank">:file_folder:  **Link to elevator pitch**</a>
+> <a href="https://www.figma.com/proto/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?page-id=561%3A801&type=design&node-id=632-68&viewport=1270%2C279%2C0.14&t=JWfDJcGj1QdEO3nS-1&scaling=min-zoom&starting-point-node-id=632%3A68&show-proto-sidebar=1&mode=design" target="_blank">:file_folder:  **Link to elevator pitch**</a>
 
 :fontawesome-solid-cube: Preview Warestack's basic idea, highlighting the problems, solutions, current market trends and a presentation of the core team.
 
