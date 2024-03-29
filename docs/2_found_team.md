@@ -6,7 +6,7 @@
 
 **:fontawesome-solid-server:  Hi! We are Dimitris (left) and Stelios (right), and we are computer systems guys!**
 
-**We have been working together since 2014 and they are good friends.**
+**We have been working together since 2014 and in 2023 we founded Warestack!**
 
 
 ## What is our story?
