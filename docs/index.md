@@ -1,19 +1,17 @@
 # Welcome
 
-Welcome to [Warestack](https://www.warestack.com "Visit console page") data room. In this space you can find useful information about our product, team, and financial plan.
+Welcome to [Warestack's](https://www.warestack.com "Visit console page") data room. Here you can find information on our product idea, pitch, team, financial plan and more.
 
-:fontawesome-solid-envelope: Feel free to get in touch for more information.
-```
-admin@warestack.com
-```
+## :fontawesome-solid-layer-group: What is Warestack?
 
-## What is a Warestack workflow?
+**An AI-driven platform to automate and operate one-click workflows for any codebase in GitHub**.
 
-A workflow in Warestack’s context is an automated process that simplifies tasks in cloud computing and software development. 
 
-> It handles the orchestration of cloud resources and integration with providers (like `Amazon Web Services` or the `Google Cloud Platform`) by utilizing code and repositories with actions (like `GitHub Action`), deploying and configuring systems (like `databases`), and setting up their dependencies.
+## :fontawesome-solid-arrows-turn-to-dots: What is a Warestack workflow?
 
-:bulb: Workflows are specified in YAML files and can be triggered by events like push actions, pull requests, issue creations, or manually. They can also be scheduled to run at specific times.
+A workflow is an automated process that handles the orchestration of cloud resources and integration with providers (like `AWS` or `GCP`) by utilizing codebases and repositories with actions (like `GitHub Action`), deploying and configuring systems (like `databases`), and setting up their dependencies.
+
+> Workflows are specified in YAML files and can be triggered by events like push actions, pull requests, issue creations, or manually. They can also be scheduled to run at specific times.
 
 ### :fontawesome-solid-square-xmark: What are the problems?
 
@@ -50,6 +48,13 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
  { .annotate }
     1. Like taking an Uber instead of the bus.
 
+### :fontawesome-solid-rocket:  How do we achieve that?
+
+* We abstract workflow composition to modular jobs to ensure scalability and maintainability for example using existing GitHub marketplace actions. 
+* Our runners can execute workflows at infrastructure cost, and not in billable time units as GitHub does.
+* Our users manage runner costs and limits while ensuring compliance e.g. execute workflows in their region or private networks and not wherever a GitHub runner relies. 
+* The copilot is the icing on the top, guiding users to compose and operate workflows by fitting modern UX expectations.
+
 ### :fontawesome-solid-thumbs-up: How is the market?
 
 <img src="assets/images/market.svg" width=1000>
@@ -67,3 +72,8 @@ We are members of startup programs. (1)
 
 <img src="assets/images/group.svg" alt="Stelios" width="1250"/>
 
+
+:fontawesome-solid-envelope: Feel free to get in touch for more information.
+```
+admin@warestack.com
+```

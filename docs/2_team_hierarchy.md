@@ -11,7 +11,7 @@ A team with a strong technological and operational background.
 
 ### <a href="https://linkedin.com/in/abhis23" target="_blank"> Abhi Setia</a> `Operations advisor`
 
-Abhi brings seven years of expertise in early to growth-stage technology companies, serving as our essential advisor for strategic planning and product-market fit. His seasoned background in operations positions him as a pivotal figure in guiding our direction and strategy.  He already raised $4M in his previous projects.
+Abhi brings seven years of expertise in early to growth-stage technology companies, serving as our operations and strategic planning leader for product-market fit. His seasoned background in operations positions him as a pivotal figure in guiding our direction and strategy. He already raised $4M in his previous projects.
 
 ??? Quote end "Short CV"
     He began his career with ~ 2 years in tech investments (capital, debt) 
