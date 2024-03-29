@@ -33,9 +33,9 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
 
     Please explore our :paperclip: [pitch](1_pitch.md) for more information.
 
-### :fontawesome-solid-cloud: Memberships [^1]
+### :fontawesome-solid-cloud: Memberships (1) { .annotate }
 
-[^1]: We are members of startup programs that offer technical support, guidance, and access to credits for resources worth up to $200,000.
+1.  :man_raising_hand: We are members of startup programs that offer technical support, guidance, and access to credits for resources worth up to $200,000.
 
 <img src="assets/images/group.svg" alt="Stelios" width="1250"/>
 
