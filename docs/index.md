@@ -50,7 +50,7 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
  { .annotate }
     1. Like taking an Uber instead of the bus.
 
-### :fontawesome-solid-thumbs-up: Is there a market?
+### :fontawesome-solid-thumbs-up: How is the market?
 
 <img src="assets/images/market.png" width=1000>
 
