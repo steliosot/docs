@@ -18,36 +18,40 @@ We have already secured letters of intent from GoCharlie and Renovai to particip
 
 </div>
 
-## Product screens in Figma
+## Product screens
 
-Explore our user experience designs in Figma that showcase current product developments.
+Discover our latest product developments through our UI designs on Figma.
 
-<a href="https://www.figma.com/file/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?type=design&node-id=53-2634&mode=design" target="_blank"> :fontawesome-solid-circle-arrow-right:  Figma designs `web-app_v3/console_share`
+:fontawesome-solid-circle-arrow-right: [User interface designs on Figma](https://www.figma.com/file/zsn3MfTd3oBo16XYYwWEXJ/web-app-v3?type=design&node-id=53-2634&mode=design "Visit our public Figma space"){:target="_blank"}
 
-<img src="../assets/images/console.png" alt="Architecture" width="750"/></a>
+
+<img src="../assets/images/console.png" alt="Architecture" width="750"/>
 
 
 ## Warestack development environment
 
 Explore our development environment.
 
+:fontawesome-solid-envelope: Please create an account and email us at `admin@warestack.com` to request console access.
+
+:fontawesome-solid-circle-arrow-right: [https://dev.warestack.com](https://dev.warestack.com "Visit the development environment"){:target="_blank"}
+
+
 === "Development environment"
 
-    :fontawesome-solid-envelope: Please create an account and email us at `admin@warestack.com` to request access.
-
-    <a href="https://dev.warestack.com" target="_blank"> :fontawesome-solid-circle-arrow-right: https://dev.warestack.com
+    Screenshot showing Warestack's console entrance (post-login).
 
     <img src="../assets/images/enter-console.png" alt="Console" width="750"/></a>
 
 === "Copilot"
 
-    Screenshot of Warestack's prototype copilot.
+    Screenshot showing Warestack's prototype copilot.
 
-    <img src="../assets/images/copilot.png" alt="Copilot" width="750"/></a>
+    <img src="../assets/images/copilot.png" alt="Copilot" width="750"/>
 
 === "Workspace"
 
-    Screenshot of Warestack's prototype workspaces.
+    Screenshot showing Warestack's prototype workspaces.
 
     <img src="../assets/images/workspace.png" alt="Copilot" width="750"/></a>
 
@@ -55,16 +59,17 @@ Explore our development environment.
 
 Explore our user experience designs in Figma that showcase current product developments.
 
-<a href="https://api.warestack.com/v1/docs/index.html" target="_blank"> :fontawesome-solid-circle-arrow-right: Warestack REST API (Swagger documentation)
+:fontawesome-solid-circle-arrow-right: [Warestack REST API documentation](https://api.warestack.com/v1/docs/index.html "Visit Warestack's Swagger documentation"){:target="_blank"}
 
-<img src="../assets/images/swagger.png" alt="Swagger" width="750"/></a>
+
+<img src="../assets/images/swagger.png" alt="Swagger" width="750"/>
 
 
 ## Warestack GitHub presense
 
 Explore our GitHub public repositories including blueprints, CI/CD workflows and other codebases.
 
-<a href="https://github.com/warestack" target="_blank"> :fontawesome-solid-circle-arrow-right: Warestack at GitHub</a>
+:fontawesome-solid-circle-arrow-right: [Warestack at GitHub](https://github.com/warestack "Visit our GitHub space"){:target="_blank"}
 
 
 
