@@ -1,13 +1,13 @@
 # Welcome
 
-Welcome to [Warestack's](https://www.warestack.com "Visit console page") data room. Here you can find information on our product idea, pitch, team, financial plan and more.
+Welcome to [Warestack's](https://www.warestack.com "Visit console page"){:target="_blank"} data room. Here you can find information on our product idea, pitch, team, financial plan and more.
 
 ## :fontawesome-solid-layer-group: What is Warestack?
 
 **An AI-driven platform to automate and operate one-click workflows for any codebase in GitHub**.
 
 
-## :fontawesome-solid-arrows-turn-to-dots: What is a Warestack workflow?
+### :fontawesome-solid-arrows-turn-to-dots: What is a Warestack workflow?
 
 A workflow is an automated process that handles the orchestration of cloud resources and integration with providers (like `AWS` or `GCP`) by utilizing codebases and repositories with actions (like `GitHub Action`), deploying and configuring systems (like `databases`), and setting up their dependencies.
 
@@ -34,10 +34,10 @@ A workflow is an automated process that handles the orchestration of cloud resou
 
 We solve the workflow operation puzzle! Setting up workflows is complex and costly. We simplify and reduce costs by providing workflow compositions and self-hosted solutions with observability. Our solution includes:
 
-1. Low-code copilot: We provide a custom LLM to help you compose and optimize workflows in minutes. (1)
+1. Warestack copilot: We provide a copilot to help users compose and operate workflows. (1)
  { .annotate }
     
-    1. Like using ChatGPT but to describe needs and build workflows.
+    1. Like using ChatGPT but to match with your needs and build workflows.
 
 2. Self-managed runners: Self and cloud hosted workfklow runners to control cost, performance and compliance. (1)
  { .annotate }
@@ -47,13 +47,6 @@ We solve the workflow operation puzzle! Setting up workflows is complex and cost
 3. Holistic observability: A unique dashboard to manage, fix and operate multi-cloud wofklows.(1)
  { .annotate }
     1. Like taking an Uber instead of the bus.
-
-### :fontawesome-solid-rocket:  How do we achieve that?
-
-* We abstract workflow composition to modular jobs to ensure scalability and maintainability for example using existing GitHub marketplace actions. 
-* Our runners can execute workflows at infrastructure cost, and not in billable time units as GitHub does.
-* Our users manage runner costs and limits while ensuring compliance e.g. execute workflows in their region or private networks and not wherever a GitHub runner relies. 
-* The copilot is the icing on the top, guiding users to compose and operate workflows by fitting modern UX expectations.
 
 ### :fontawesome-solid-thumbs-up: How is the market?
 

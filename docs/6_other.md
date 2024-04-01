@@ -1,9 +1,4 @@
-# Tech & Community
-
-## Tech & architecture
-
-> <a href="https://excalidraw.com/#room=cbe9ad7e3782f2d4aadf,9BBCJcrK9sjLaqtQNm_Cdw
-" target="_blank"> :file_folder: Link to a technical view of our product (excalidraw). </a>
+# Community
 
 ## What does the community say?
 
@@ -19,3 +14,12 @@
 
 <a href="https://www.linkedin.com/company/36080416" target="_blank"> :link: Warsestack's LinkedIn page. </a>
 
+<!---
+### :fontawesome-solid-rocket:  How do we achieve that?
+
+* We abstract workflow composition to modular jobs to ensure scalability and maintainability for example using existing GitHub marketplace actions. 
+* Our runners can execute workflows at infrastructure cost, and not in billable time units as GitHub does.
+* Our users manage runner costs and limits while ensuring compliance e.g. execute workflows in their region or private networks and not wherever a GitHub runner relies. 
+* The copilot is the icing on the top, guiding users to compose and operate workflows by fitting modern UX expectations.
+
+-->
